@@ -4,6 +4,7 @@ module.exports = {
   theme: {
     extend: {},
     screens: {
+      xs: '350px',
       sm: '480px',
       md: '768px',
       lg: '976px',
@@ -16,7 +17,7 @@ module.exports = {
       '9/16': '56.25%',
       '3/4': '75%',
       'full': '100%',
-    }
+    },
   },
   variants: {
     extend: {},
